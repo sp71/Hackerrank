@@ -5,4 +5,4 @@ Miscellaneous solutions to problems in C++ found in hackerrank.com
 
 Notes
 ==========
-Description listed under commit shows original question from hackerrank.com
+First 2-3 lines of code display original question from hackerrank.com
