@@ -39,15 +39,11 @@ int maxXor(int l, int r)
 
 int main() {
     int res;
-    int _l;
+    int _l, _r;
     cin >> _l;
-    
-    int _r;
     cin >> _r;
-    
     res = maxXor(_l, _r);
     cout << res;
-    
     return 0;
 }
 
