@@ -1,3 +1,5 @@
+// Original Question: https://www.hackerrank.com/challenges/mark-and-toys
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
